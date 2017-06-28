@@ -1,0 +1,2 @@
+# haiku-generator
+create haikus
